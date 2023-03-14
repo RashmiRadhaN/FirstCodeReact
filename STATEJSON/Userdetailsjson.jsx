@@ -5,7 +5,7 @@ const Userdetailsjson=(props)=>{
     console.log(data)
     return (
         <div>
-            <table border="2px" style={{textAlign:"center",fontWeight:"bold"}}>
+            <table border="1px" style={{textAlign:"center",fontWeight:"bold"}}>
                 <tr>
                    <th>UserName</th>
                    <th>Age</th>
