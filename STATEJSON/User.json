@@ -1,0 +1,79 @@
+[
+    {
+        "username":"Rakshith",
+        "age":25,
+        "Gender":"Male",
+        "DOB":"31-02-1999",
+        "Occupation":"MERN STACK DEV",
+        "Salary":50000,
+        "Photo":"https://cdn5.vectorstock.com/i/1000x1000/54/34/a-student-boy-cartoon-character-isolated-on-white-vector-36115434.jpg",
+        "Phone":[8553256987,7895123654,7896214587]
+
+    },
+
+    {
+        "username":"Ramesh",
+        "age":25,
+        "Gender":"Male",
+        "DOB":"31-09-1998",
+        "Occupation":"MERN STACK DEV",
+        "Salary":60000,
+        "Photo":"https://cdn5.vectorstock.com/i/1000x1000/54/34/a-student-boy-cartoon-character-isolated-on-white-vector-36115434.jpg",
+        "Phone":[8553256987,7895123654,7896214587]
+
+    },
+
+    {
+        "username":"Rakiii",
+        "age":27,
+        "Gender":"Male",
+        "DOB":"31-02-1997",
+        "Occupation":"MERN STACK DEV",
+        "Salary":70000,
+        "Photo":"https://cdn5.vectorstock.com/i/1000x1000/54/34/a-student-boy-cartoon-character-isolated-on-white-vector-36115434.jpg",
+        "Phone":[8553256987,7895123654,7896214587]
+
+    },
+
+
+    {
+        "username":"Raksiiii",
+        "age":29,
+        "Gender":"Male",
+        "DOB":"31-05-1993",
+        "Occupation":"MERN STACK DEV",
+        "Salary":80000,
+        "Photo":"https://cdn5.vectorstock.com/i/1000x1000/54/34/a-student-boy-cartoon-character-isolated-on-white-vector-36115434.jpg",
+        "Phone":[8553256987,7895123654,7896214587]
+
+    },
+
+
+
+    {
+        "username":"Ramiiii",
+        "age":26,
+        "Gender":"Male",
+        "DOB":"31-02-1997",
+        "Occupation":"MERN STACK DEV",
+        "Salary":40000,
+        "Photo":"https://cdn5.vectorstock.com/i/1000x1000/54/34/a-student-boy-cartoon-character-isolated-on-white-vector-36115434.jpg",
+        "Phone":[8553256987,7895123654,7896214587]
+
+    },
+
+    {
+        "username":"Raksu",
+        "age":24,
+        "Gender":"Male",
+        "DOB":"13-02-1999",
+        "Occupation":"MERN STACK DEV",
+        "Salary":30000,
+        "Photo":"https://cdn5.vectorstock.com/i/1000x1000/54/34/a-student-boy-cartoon-character-isolated-on-white-vector-36115434.jpg",
+        "Phone":[8553256987,7895123654,7896214587]
+
+    }
+
+    
+
+]
